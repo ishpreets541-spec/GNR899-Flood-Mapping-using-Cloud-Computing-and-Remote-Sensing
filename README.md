@@ -15,7 +15,8 @@ Traditional ground-based flood monitoring is often slow, impractical for large-s
 *   To showcase how cloud computing directly supports disaster management and critical decision-making.
 
 ---
-
+![Google Earth Engine - Bhopal Flood Analysis](image.png)
+---
 ## 🛠️ Tools & Technologies
 *   **Satellite Imagery:** Sentinel-1 SAR (specifically VV Polarization for strong land/water contrast) and Landsat-8.
 *   **Platforms:** Google Earth Engine (GEE) for rapid cloud-based geospatial processing.
