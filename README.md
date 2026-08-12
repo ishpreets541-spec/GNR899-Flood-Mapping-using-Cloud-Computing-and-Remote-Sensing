@@ -41,7 +41,15 @@ Newly inundated areas are identified by comparing pre-flood and post-flood refer
 *   **Thresholding Techniques Evaluated:** Manual Thresholding, Otsu Method (effective for bimodal histograms), Kittler-Illingworth (KI) Method, and Split-Based Thresholding (local thresholding for spatial heterogeneity).
 
 ---
+---
+### 👩‍💻 Author
+**Ishpreet Singh**
 
+M.Tech
+Indian Institute of Technology Bombay
+Mail ID:
+25m0326@iitb.ac.in
+---
 ## 📊 Hydrological Case Studies
 
 The methodology was applied to two distinct flood scenarios, adapting backscatter thresholds to account for variations in surface roughness and flood dynamics. 
